@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#009be3",
+        "titleBar.inactiveBackground": "#009be3"
+    },
+    "explorer.compactFolders": false,
+    "prettier.printWidth": 80,
+    "terminal.integrated.profiles.linux": {
+        "zsh (login)": {
+          "path": "/usr/local/bin/zsh",
+          "args": ["-l"]
+        }
+    }
+}
